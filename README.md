@@ -1,4 +1,4 @@
-# Jd_Seckill
+# jd_goods_fetch
 
 ## 特别声明:
 
